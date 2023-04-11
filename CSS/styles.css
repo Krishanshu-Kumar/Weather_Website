@@ -1,0 +1,41 @@
+body {
+
+    background-image: url("https://source.unsplash.com/1600x900/?time");
+    background-size: cover;
+   display: flex;
+   align-items: center;
+justify-content: center;
+margin: 0;
+height: 100vh;
+}
+
+.form-control{
+
+    border-radius: 2rem !important;
+}
+.f-container{
+
+    margin-top: 30px;
+}
+button{
+    
+    border-radius: 2rem !important;
+}
+.card-body{
+
+    height: auto;
+}
+.card {
+
+
+    background: rgba(0,0,0,0.8) !important;
+
+    font-family: 'Noticia Text', serif;
+    backdrop-filter: blur(4rem);
+    color: whitesmoke;
+    opacity: 90%;
+    width: 35vw;
+    border-radius: 3rem !important;
+    
+
+}
